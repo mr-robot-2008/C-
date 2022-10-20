@@ -1,4 +1,4 @@
-# C++
+# C++ Repository
 # Welcome to the world of open source! Make your pull request in this repository as a contributor in Hackoctoberfest2022.🔥
 ![Hacktoberfest 2021](static/logo.png)
 
