@@ -1,0 +1,1 @@
+Thanks to the maintainers and contributors of this beginner friendly respository. This is code and no code repository. THe merges are swift which encouraging more contributions and open source projects.
